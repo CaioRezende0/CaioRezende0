@@ -1,4 +1,9 @@
-### Hi there 👋
+Seja bem vindo ao meu perfil de desenvolvedor👋
+
+Estou começando os trabalhos nessa rede, sinta-se livre para cometar,
+compartilhar e testar meus projetos
+
+# Meus principais projetos
 
 <!--
 **Caioba22/Caioba22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
